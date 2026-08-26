@@ -51,6 +51,10 @@ For a more tailored result, also provide:
 
 ## Installation
 
+Download the ready-to-install package:
+
+- [Download github-first-publish.zip](https://github.com/qiuaoru-coder/helper-tools/releases/latest/download/github-first-publish.zip)
+
 Clone this repository, then copy the Skill folder into the directory used by your agent.
 
 ### Codex
