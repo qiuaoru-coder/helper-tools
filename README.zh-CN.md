@@ -53,6 +53,10 @@
 
 ## 安装
 
+直接下载安装包：
+
+- [下载 github-first-publish.zip](https://github.com/qiuaoru-coder/helper-tools/releases/latest/download/github-first-publish.zip)
+
 ### Codex
 
 ~~~bash
